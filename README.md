@@ -1,5 +1,8 @@
 # *Site AluraBooks*
 ## *Projeto responsivo Mobile First*
+
+<div>link vercel: https://alura-books-six-smoky.vercel.app/</div>
+
 ### *Pensado para 3 tamanhos de tela (celulares, tablets e desktops), criado com HTML, CSS,media queries, flexbox e swiperjs.*
 
 CELULAR <br/>
